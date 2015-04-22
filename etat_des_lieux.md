@@ -1,5 +1,5 @@
 # Etat les lieux #
-L'état des lieux est une description de l'infrastructure informatique de l'école. Il s'apparante à un inventaire et doit évoluer en même temps que l'informatique de l'école. Il permet aux intervenants (professionnel ou bénévoles) de connaitre les particularités de votre installation informatique. Certaine données peuvent être parfoit difficile à connaitre.
+L'état des lieux est une description de l'infrastructure informatique de l'école. Il s'apparente à un inventaire et doit évoluer en même temps que l'informatique de l'école. Il permet aux intervenants (professionnels ou bénévoles) de connaitre les particularités de votre installation informatique. Certaine données peuvent parfoit nécessiter de bonnes compétences techniques.
 
 Il couvre tout les champs en rapport avec l'informatique :
 
@@ -21,8 +21,8 @@ Liste de tous les abonnements internet de l'école avec les informations suivant
 - Offres
 - Adresse de souscription
 - Date de souscription
-- Coût mesuel de l'abonnement
-- Coût mesuel supplémentaire moyen (communications, ...)
+- Coût mensuel de l'abonnement
+- Coût mensuel supplémentaire moyen (communications, ...)
 - Débit montant et descendant constatés (Test de débit)
 ## Imprimantes et Copieurs ##
 *Ne sont concerné que les copieurs et imprimantes connectés au réseau.*
@@ -39,7 +39,7 @@ Liste tout les copieurs et imprimantes de l'école avec les informations suivant
 - Coûts d'impression (Coût à la page)
 - Relevés des compteurs : Au moins une fois par an sous forme de tableau(date du relevé, copies N&B, copies couleur). Il convient de garder un historique sur plusieurs année pour voir l'évolution même en cas de nouveau copieur.
 
-# Vidéoprojecteur #
+## Vidéoprojecteur ##
 Liste de tous les vidéoprojecteur interactif ou non. On recence aussi les Talbeaux interactifs. Voici les informations a collecter :
 
 - Marque
@@ -50,7 +50,7 @@ Liste de tous les vidéoprojecteur interactif ou non. On recence aussi les Talbe
 - Localisation (lieu de stockage pour les mobiles)
 - Acessoires s'il y en a (Transmission sans fil, ...)
 
-# Borne Wifi #
+## Borne Wifi ##
 Liste de tous les point d'accès sans fil au réseau y compris les box opérateurs avec les informations suivantes :
 
 - Marque
@@ -59,7 +59,7 @@ Liste de tous les point d'accès sans fil au réseau y compris les box opérateu
 - SSID(s)
 - Sécurité d'accès mise en place (WPA-PSK, portail captif, ...)
 
-# Pérénité des données #
+## Pérénité des données ##
 Liste les données senssibles de l'éole et les moyens mis en oeuvre pour les péréniser (sauvegarde ou copie). Pour chaque données, les informations suivantes sont à collecter :
 
 - Ce qui est concerné (Photos, Documents de direction, Apel, OGEC, logiciel de gestion, ...)
@@ -67,10 +67,10 @@ Liste les données senssibles de l'éole et les moyens mis en oeuvre pour les p�
 - Supports de sauvegarde (Clé USB, Cloud, ...)
 - Localisation physique de la sauvegarde
 
-# Politique de mot de passe #
+## Politique de mot de passe ##
 C'est une description de comment et ou sont stocké les mot de passe (Cahier, fichier, logiciel, ...). Pour chaque élément nécessitant une autentification, il faut connaitre aussi la procédure en cas de perte de mot de passe.
 
-# Logiciels #
+## Logiciels ##
 Liste des logiciels notables utilisés dans l'école. Cela se limite aux logiciels clés comme un logiciel de gestion d'établissement. Pour chaque logiciel, il faut collecter :
 
 - Le nom du logiciel
@@ -82,7 +82,7 @@ Liste des logiciels notables utilisés dans l'école. Cela se limite aux logicie
 - Le type et la localisation des medias d'installation (Exemple : Disquette, CD, DVD, Téléchargement sur le site suivant, ...)
 - Les éventuels contrat (avec les dates de début et/ou de fin)
 
-# Réseau logique #
+## Réseau logique ##
 On liste ici quelques informations sur le/les réseaux :
 
 - L'adressage IP
@@ -94,7 +94,7 @@ On liste ici quelques informations sur le/les réseaux :
 
 En cas de particularité sur le réseau c'est ici qu'il faut la décrire.
 
-# Réseau physique #
+## Réseau physique ##
 Le plus simple pour décrir un réseau physique est de faire un ou plusieurs shémas indiquant les éléments suivants :
 
 - Les box internet
@@ -102,10 +102,10 @@ Le plus simple pour décrir un réseau physique est de faire un ou plusieurs sh�
 - Les points de connexion réseau (prise rj45)
 - Les câblages d'interconnexion.
 
-# Filtrage internet #
+## Filtrage internet ##
 C'est une description des éléments mis en place pour le filtrage de l'accès à internet.
 
-# Sites internet #
+## Sites internet ##
 On liste ici les sites internet appartenant à l'école. On retrouve les éléments suivants :
 
 - Adresse du site internet
@@ -114,6 +114,6 @@ On liste ici les sites internet appartenant à l'école. On retrouve les éléme
 - Coordonnées du responsable technique
 - Type de support (Wordpress, Drupal, ...)
 
-# Ordianteurs fixes/portables & tablettes #
+## Ordianteurs fixes/portables & tablettes ##
 
 Existe-t-il un inventaire des ordianteurs et des tablettes ? Si oui, quand, sous quel forme et avec quel outil a-t-il été réalisé.
