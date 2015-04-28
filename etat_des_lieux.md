@@ -114,6 +114,6 @@ On liste ici les sites internet appartenant à l'école. On retrouve les éléme
 - Coordonnées du responsable technique
 - Type de support (Wordpress, Drupal, ...)
 
-## Ordianteurs fixes/portables & tablettes ##
+## Ordinateurs fixes/portables & tablettes ##
 
 Existe-t-il un inventaire des ordianteurs et des tablettes ? Si oui, quand, sous quelle forme et avec quel outil a-t-il été réalisé.
