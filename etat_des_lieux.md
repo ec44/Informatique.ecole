@@ -116,4 +116,4 @@ On liste ici les sites internet appartenant à l'école. On retrouve les éléme
 
 ## Ordianteurs fixes/portables & tablettes ##
 
-Existe-t-il un inventaire des ordianteurs et des tablettes ? Si oui, quand, sous quel forme et avec quel outil a-t-il été réalisé.
+Existe-t-il un inventaire des ordianteurs et des tablettes ? Si oui, quand, sous quelle forme et avec quel outil a-t-il été réalisé.
